@@ -1,0 +1,31 @@
+{
+  "scorePerGoal": 100,
+  "scorePerExtra": 250,
+  "scorePerMiss": -200,
+
+  "resetGoalTime": 2.0,	
+  "resetMissTime": 1.0,
+  "resetNoHitTime": 2.0,
+
+  "kickSpeed": 1000.0,
+  "kickAngleHorizontal": {
+	  "min": -45.0,
+	  "max": 45.0
+  },
+  "kickHorizontalTweenTime": 1.0,
+
+  "keeperPreKickTweenPos": {
+	  "min": -0.5,
+	  "max": 0.5
+  },
+    "keeperPreKickTweenTime": {
+	  "min": 0.35,
+	  "max": 1.0
+  },
+
+  "keeperJumpTweenPos": {
+	  "min": 1.0,
+	  "max": 2.0
+  },
+  "keeperJumpTweenTime": 0.25
+}
